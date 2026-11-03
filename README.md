@@ -12,6 +12,3 @@ npm run dev
 npm run build
 npm run preview
 ```
-Готово для GitHub и Vercel: импортируйте репозиторий, framework preset — Vite, build command — `npm run build`, output directory — `dist`.
-
-Данные сохраняются локально в браузере (`localStorage`, ключ `taskflow-v1`). Демоданные загружаются при первом запуске.
